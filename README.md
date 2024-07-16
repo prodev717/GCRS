@@ -10,3 +10,4 @@ Welcome to GCRS! This project captures webcam feed, detects hand coordinates and
 - Uses Mediapipe for hand detection.
 - Employs the Firmata protocol (pyFirmata) for serial communication between Python and Arduino.
 - Demo Video : https://youtu.be/-AuYzzw1D4Y?si=qty0oIpe6b8GyWNB
+Note : Change COMPORT according to your machine.
