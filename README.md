@@ -1,6 +1,6 @@
 # GCRS - Gesture Control Robotic System
 
-Welcome to GCRS! This project captures webcam feed, detects hand coordinates and movements, and then sends the data to an Arduino to control a dual-axis arm with servo motors.
+This project captures webcam feed, detects hand coordinates and movements, and then sends the data to an Arduino to control a dual-axis arm with servo motors.
 
 ## Features
 
@@ -11,3 +11,7 @@ Welcome to GCRS! This project captures webcam feed, detects hand coordinates and
 - Employs the Firmata protocol (pyFirmata) for serial communication between Python and Arduino.
 - Demo Video : https://youtu.be/-AuYzzw1D4Y?si=qty0oIpe6b8GyWNB
 - Note : Change COMPORT according to your machine.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
